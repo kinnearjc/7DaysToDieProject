@@ -1,0 +1,44 @@
+
+#titleBanner{
+  margin: 2px;
+  padding: 3px;
+  border: 1px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+  
+nav li {
+  float: left;
+}
+  
+nav li a {
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+  
+nav li a:hover {
+  background-color: #111;
+}
+
+body{
+  background-color: #111;
+  color:red;
+  font-size: large;
+}
+
+h3{
+  text-decoration: underline;
+}
